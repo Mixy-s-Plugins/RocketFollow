@@ -1,0 +1,7 @@
+/Users/macbookpro/RiderProjects/RocketFollow/RocketFollow/bin/Debug/RocketFollow.dll
+/Users/macbookpro/RiderProjects/RocketFollow/RocketFollow/bin/Debug/RocketFollow.pdb
+/Users/macbookpro/RiderProjects/RocketFollow/RocketFollow/obj/Debug/RocketFollow.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/RocketFollow/RocketFollow/obj/Debug/RocketFollow.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/RocketFollow/RocketFollow/obj/Debug/RocketFollow.csproj.CopyComplete
+/Users/macbookpro/RiderProjects/RocketFollow/RocketFollow/obj/Debug/RocketFollow.dll
+/Users/macbookpro/RiderProjects/RocketFollow/RocketFollow/obj/Debug/RocketFollow.pdb
